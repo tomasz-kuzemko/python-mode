@@ -133,6 +133,5 @@ endfunction "}}}
 
 fun! pymode#quit() "{{{
     augroup pymode
-        au!
     augroup END
 endfunction "}}}
